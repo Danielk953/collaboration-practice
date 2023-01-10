@@ -6,7 +6,7 @@
 #### 6
 #### 7 Daniel was here
 #### 8
-#### 9 Github is awesome
+#### 9 
 #### 10
 #### 11
 #### 12
